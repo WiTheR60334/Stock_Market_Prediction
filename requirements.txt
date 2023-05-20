@@ -1,0 +1,5 @@
+pip install numpy
+pip install scikit-learn
+pip install yfinance
+pip install tensorflow
+pip install numpy
