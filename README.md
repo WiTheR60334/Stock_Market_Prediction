@@ -11,6 +11,7 @@ I have created a ML model, which predicts Stock Market trend and also its closin
 - Pandas( `pip install pandas` )
 - scikit-learn( `pip install scikit-learn` )
 - tensorflow( `pip install tensorflow` )
+- yfinance( `pip install yfinance` )
 
 ### What steps you have to follow??
 - Download my Repository.
