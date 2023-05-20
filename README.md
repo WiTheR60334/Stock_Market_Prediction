@@ -19,6 +19,7 @@ https://wither60334-stock-market-prediciton-app-28b1mu.streamlit.app/
 - Download my Repository.
 - Open the zip folder. Now open terminal in that folder and write `streamlit run app.py`
 - Localhost website will be opened and you can enter any stock ticker and see its predicted price.
+- Enter Registered stock names of the company. Like enter `GOOGL` for google , `MSFT` for Microsoft
 
 ### Project Structure
 
