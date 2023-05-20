@@ -78,7 +78,7 @@ for i in range(100, data_training_array.shape[0]):
 X_train, y_train = np.array(X_train), np.array(y_train)
 
 previous_100_days_data = data_training.tail(100)
-final_df = previous_100_days_data.concat(data_testing, ignore_index=True)
+final_df = previous_100_days_data.append(data_testing, ignore_index=True)
 scale_testing = scaler.fit_transform(final_df)
 
 X_test = []
