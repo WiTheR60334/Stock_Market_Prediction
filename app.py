@@ -3,10 +3,9 @@ import datetime as dt
 import streamlit as st
 import numpy as np
 import pandas as pd
-import math, datetime, requests, base64
+import math, datetime
 import yfinance as yf
 import matplotlib.pyplot as plt
-import plotly.graph_objects as go
 from sklearn.preprocessing import MinMaxScaler
 # from keras.layers import Dense,Dropout, LSTM
 # from keras.models import Sequential
