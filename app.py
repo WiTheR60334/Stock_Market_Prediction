@@ -185,7 +185,7 @@ else:
         x_train,y_train=np.array(x_train),np.array(y_train)
         x_train=np.reshape(x_train,(x_train.shape[0],x_train.shape[1],1))
         
-        model1=load_model('/home/wither/Desktop/Stock/Accurate.h5')
+        model1=load_model('Accurate.h5')
         
         test_data=data_training_array[data_training_len-60: ,:]
         x_test=[]
