@@ -84,7 +84,7 @@ else:
     
     scaler = MinMaxScaler(feature_range=(0, 1))
     
-    model = load_model('/home/wither/Desktop/Stock/Stock_Prediction_keras_model.h5')
+    model = load_model('Stock_Prediction_keras_model.h5')
     
     data_training_array = scaler.fit_transform(data_training)
     
