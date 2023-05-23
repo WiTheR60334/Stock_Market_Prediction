@@ -2,7 +2,12 @@
 I have created a ML model, which predicts Stock Market trend and also its closing price with very less error.
 
 ### Sourcerer
+
+<img src="https://github.com/WiTheR60334/Stock_Market_Prediciton/assets/115364885/aa8b0a53-dc8c-4205-9681-358cd8ff56fd" alt="WiTheR" width="80" height="85">
+
 `ROMIR BEDEKAR`
+
+
 
 ### Website Link
 https://wither60334-stock-market-prediciton-app-28b1mu.streamlit.app/
@@ -29,8 +34,8 @@ https://wither60334-stock-market-prediciton-app-28b1mu.streamlit.app/
 
 ### Screenshots
 
-### Enter any stock ticker and get its details
-![image](https://github.com/WiTheR60334/Stock_Market_Prediciton/assets/115364885/16e515f9-9d8c-4246-8a49-232820fedf18)
+### Enter any stock ticker and get its details :
+![image](https://github.com/WiTheR60334/Stock_Market_Prediciton/assets/115364885/929ca761-5cb9-42b1-883f-e76bd3ce6931)
 
 ### Identifty the trend 
 ![image](https://github.com/WiTheR60334/Stock_Market_Prediciton/assets/115364885/6656fc05-0ea8-4f85-b117-12939074beff)
