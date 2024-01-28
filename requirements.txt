@@ -1,6 +1,6 @@
  Streamlit
  numpy
- pandas==1.5.3
+ pandas
  scikit-learn
  tensorflow
  yfinance
